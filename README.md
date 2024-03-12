@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/firatkazak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firatkazak" height="30" width="40" /></a>
 <a href="https://fb.com/firatkazak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="firatkazak" height="30" width="40" /></a>
 <a href="https://instagram.com/firatkazak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firatkazak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/firatkazak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="firatkazak" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCihZUQ500tC6yyaap_RKGOA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="firatkazak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">I have used these technologies 1 or more times. PS: Of course, I'm not a master at all of them. Some of them I am still taking baby steps.</h3>
